@@ -1,0 +1,9 @@
+{
+  "appId": "com.hadifarhoodi.graphstudio",
+  "appName": "Graph Studio",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
